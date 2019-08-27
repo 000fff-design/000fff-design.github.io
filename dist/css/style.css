@@ -134,6 +134,10 @@ p, li {
 	margin-bottom: 0.75em;
 }
 
+p {
+	max-width: 60ch;
+}
+
 ol {
 	list-style-type: decimal;
 	margin-left: 2rem;
@@ -1197,7 +1201,7 @@ footer li a {
 		flex-direction: column;
 		justify-content: flex-start;
 		align-items: flex-start;
-		width: 100%;
+		width: 100%;	
 }
 
 @media screen and (min-width: 641px) {
