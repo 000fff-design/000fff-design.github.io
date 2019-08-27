@@ -1,0 +1,46 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 350">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 20px;
+      }
+    </style>
+  </defs>
+  <title>000fff</title>
+  <g id="f-stretchy-1">
+    <line id="f-vertical-line" class="cls-1" x1="10" y1="350" x2="10" y2="260"/>
+    <line id="f-middle-line" class="cls-1" y1="300" x2="225" y2="300"/>
+    <line id="f-top-line" class="cls-1" y1="260" x2="225" y2="260"/>
+  </g>
+  <g id="o-stretchy-1">
+    <path id="o-side-left" class="cls-1" d="M50,90a40,40,0,0,1,0-80"/>
+    <path id="o-side-right" class="cls-1" d="M175,10a40,40,0,0,1,0,80"/>
+    <line id="o-line-top" class="cls-1" x1="50" y1="10" x2="175" y2="10"/>
+    <line id="o-line-bottom" class="cls-1" x1="50" y1="90" x2="175" y2="90"/>
+  </g>
+  <g id="o-stretchy-2">
+    <path id="o-side-left-2" data-name="o-side-left" class="cls-1" d="M300,90a40,40,0,0,1,0-80"/>
+    <path id="o-side-right-2" data-name="o-side-right" class="cls-1" d="M300,10a40,40,0,0,1,0,80"/>
+    <line id="o-line-top-2" data-name="o-line-top" class="cls-1" x1="300" y1="10" x2="301" y2="10"/>
+    <line id="o-line-bottom-2" data-name="o-line-bottom" class="cls-1" x1="300" y1="90" x2="301" y2="90"/>
+  </g>
+  <g id="o-stretchy-3">
+    <path id="o-side-left-3" data-name="o-side-left" class="cls-1" d="M50,215a40,40,0,0,1,0-80"/>
+    <path id="o-side-right-3" data-name="o-side-right" class="cls-1" d="M50,135a40,40,0,0,1,0,80"/>
+    <line id="o-line-top-3" data-name="o-line-top" class="cls-1" x1="50" y1="135" x2="51" y2="135"/>
+    <line id="o-line-bottom-3" data-name="o-line-bottom" class="cls-1" x1="50" y1="215" x2="51" y2="215"/>
+  </g>
+  <g id="f-stretchy-1-2" data-name="f-stretchy-1">
+    <line id="f-vertical-line-2" data-name="f-vertical-line" class="cls-1" x1="135" y1="225" x2="135" y2="135"/>
+    <line id="f-middle-line-2" data-name="f-middle-line" class="cls-1" x1="125" y1="175" x2="350" y2="175"/>
+    <line id="f-top-line-2" data-name="f-top-line" class="cls-1" x1="125" y1="135" x2="350" y2="135"/>
+  </g>
+  <g id="f-stretchy-1-3" data-name="f-stretchy-1">
+    <line id="f-vertical-line-3" data-name="f-vertical-line" class="cls-1" x1="260" y1="350" x2="260" y2="260"/>
+    <line id="f-middle-line-3" data-name="f-middle-line" class="cls-1" x1="250" y1="300" x2="350" y2="300"/>
+    <line id="f-top-line-3" data-name="f-top-line" class="cls-1" x1="250" y1="260" x2="350" y2="260"/>
+  </g>
+</svg>
